@@ -1,0 +1,14 @@
+{
+  "name": "cborvsjson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfonso Valencia",
+  "license": "ISC",
+  "dependencies": {
+    "cbor": "^5.0.2"
+  }
+}

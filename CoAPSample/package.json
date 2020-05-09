@@ -1,0 +1,15 @@
+{
+  "name": "coaplwm2m",
+  "version": "1.0.0",
+  "description": "A short implementation of Lightweight Machine to Machine CoAP feature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfonso Valencia",
+  "license": "ISC",
+  "dependencies": {
+    "coap-node": "^0.2.8",
+    "coap-shepherd": "^0.3.1"
+  }
+}
